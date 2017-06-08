@@ -1,0 +1,140 @@
+.homeLeft{
+  background-image: url("img/LesbianLove.jpg");
+  background-repeat: no-repeat;
+  background-position:center;
+  background-size: cover;
+}
+.homeWrite{
+  text-align: center;
+  font-family: 'Tangerine', cursive;
+  font-size: 4em;
+  color:black;
+  margin-top: 100px;
+
+}
+#first{
+  display:none;
+}
+#last{
+  display:none;
+}
+#nameSpace{
+  font-size: 3.5em;
+  display:none;
+}
+.navFont{
+  font-family: 'Tangerine', cursive;
+  font-size: 30px;
+}
+body{
+  background-color: black;
+}
+.leftSide{
+  background-image: url("img/whiteflower.jpg");
+  background-repeat: no-repeat;
+  background-position:center;
+  background-size: cover;
+  font-family: 'Tangerine', cursive;
+  color:black;
+  height: 500px;
+  display: none;
+}
+.leftSide h1{
+  padding-top: 80px;
+  font-size:60px;
+  margin-left: 880px;
+}
+.leftSide p{
+  font-size:30px;
+  margin-top: 2px;
+  margin-left: 890px;
+}
+.rightSide{
+  background-image: url("img/tree.jpg");
+  background-repeat: no-repeat;
+  background-position:center;
+  background-size: cover;
+  font-family: 'Tangerine', cursive;
+  color:black;
+  height: 500px;
+  opacity:0;
+}
+.rightSide h1{
+  padding-top: 80px;
+  font-size:60px;
+  margin-left: 40px;
+}
+.rightSide p{
+  font-size:30px;
+  margin-left:50px;
+}
+.bottomSide{
+  background-image: url("img/back2back.jpg");
+  background-repeat: no-repeat;
+  background-position:center;
+  background-size: cover;
+  font-family: 'Tangerine', cursive;
+  color:black;
+  height: 500px;
+  opacity:0;
+  margin-bottom: 40px;
+}
+.bottomSide h1{
+  padding-top: 80px;
+  font-size:60px;
+  margin-left: 880px;
+}
+.bottomSide p{
+  font-size:30px;
+  margin-top: 2px;
+  margin-left: 890px;
+}
+#plusOne{
+  display:none;
+}
+#plus{
+  display:none;
+}
+#kids{
+  display:none;
+}
+#addRSVP{
+  display:none;
+}
+#coming{
+  background-image: url("img/big.jpg");
+  background-repeat: no-repeat;
+  background-position:center;
+  background-size: cover;
+
+  height:600px;
+
+}
+#coming h1{
+  margin-top: 20px;
+  font-size: 80px;
+  font-family: 'Tangerine', cursive;
+  color:black;
+  text-align: center;
+}
+#coming h3{
+  margin-top: 300px;
+  margin-left: 20px;
+  font-family: 'Tangerine', cursive;
+  font-size: 50px;
+  color:black;
+}
+#rsvpMessage{
+  float: right;
+  margin-right: 40px;
+}
+#numberOfKids{
+  display:none;
+}
+#RSVP{
+  margin-left: 35%;
+  margin-top: 50px;
+}
+#formIntro{
+  text-align: center;
+}
